@@ -1,4 +1,4 @@
-# Is Owen More Agreeable than Victor? Implicit Associations Between ‘Rounded’ or ‘Spikey’ Names and Perceptions of Personality. (BSc dissertation)
+# Is Owen More Agreeable than Victor? Implicit Associations Between ‘Rounded’ or ‘Spikey’ Names and Perceptions of Personality. (Anderson & Angele, 2021)
 
 This repository contains the full report for my undergraduate dissertation project, completed as part of my Bachelor of Science (BSc) Psychology degree. The study explores the cross-modal associations between phonemes and personality traits, with a focus on the Bouba-Kiki effect and its potential implications for social perception.
 
