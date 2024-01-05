@@ -8,8 +8,9 @@ The research employed a within-subjects and within-items design, comparing respo
 
 ## Structure
 
-- **[raw](link-to-full-report-folder):** Contains the detailed dissertation report in a raw .docx Word document file.
-- **[tables](link-to-tables-folder):** Folder housing tables presented in the report.
-- **[appendix](link-to-appendices-folder):** Additional materials and supplementary information.
+- **[report](https://github.com/oscar-anderson/IAT-names-and-traits/tree/main/report):** Contains the full report in readable markdown format, as well as all other subsidiary folders.
+- **[raw](https://github.com/oscar-anderson/IAT-names-and-traits/tree/main/report/raw):** Contains the detailed dissertation report as a raw .docx Word document file.
+- **[tables](https://github.com/oscar-anderson/IAT-names-and-traits/tree/main/report/tables):** Folder housing tables presented in the report.
+- **[appendix](https://github.com/oscar-anderson/IAT-names-and-traits/tree/main/report/appendix):** Additional materials and supplementary information.
 
 Feel free to explore the detailed report and associated files to delve into the methodology, results, and discussion of this study.
